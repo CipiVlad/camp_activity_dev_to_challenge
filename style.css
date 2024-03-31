@@ -46,22 +46,6 @@ h1 {
   height: 100vh;
 }
 
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    /* background-color: #ffffff; */
-  }
-
-  a:hover {
-    color: #747bff;
-  }
-
-  button {
-    background-color: #f9f9f9;
-  }
-}
-
 #camp-activities-inquiry {
   background-image: url('./public/img/original-067da4a35217a1f590cc4c5a0e0b4822.png');
   background-repeat: no-repeat;
