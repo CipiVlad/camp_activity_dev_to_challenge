@@ -12,14 +12,13 @@ I chose to handle user submission with [toastify-js](https://www.npmjs.com/packa
 
 
 ## Demo
-<!-- Show us your project! You can directly embed an editor into this post (see the FAQ section from the challenge page) or you can share an image of your project and share a public link to the code. -->
-You can find the project [here](https://cipivlad.github.io/) and the code [here](https://github.com/CipiVlad/camp_activity_dev_to_challenge.git).
+
+You can find the project [here](https://campactivitychallenge.netlify.app/) and the code [here](https://github.com/CipiVlad/camp_activity_dev_to_challenge.git).
 
 ## Journey
 
 Although the purpose of the user visiting this web app is to get a quick info, it doesn't mean to lack of style. So taking this user's view, finding the fitting background I really enjoyed working on the forms look and felt challenged to get something done. Till now I didn't style web apps with "glowing" effcts, as there were no use cases for that and for the first time I used the text-shadow and the css selector label[for=""]. So now I know better :)
 
-<!-- Don't forget to add a cover image to your post (if you want). -->
 
 
 # camp_activity_dev_to_challenge
