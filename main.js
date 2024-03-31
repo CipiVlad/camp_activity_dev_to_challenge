@@ -7,7 +7,7 @@ submitButton.addEventListener('click', (e) => {
     e.preventDefault()
     Toastify({
         text: "thanks for your submission!",
-        duration: 8000,
+        duration: 20000,
         destination: "https://github.com/apvarun/toastify-js",
         newWindow: true,
         close: true,
