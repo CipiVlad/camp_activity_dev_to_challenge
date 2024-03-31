@@ -5,7 +5,7 @@ _This is a submission for DEV Challenge v24.03.20, Glam Up My Markup: Camp Activ
 I built an inquiry web app for camping activities using the starter code with vite vanilla javascript. 
 Since a plain form leavs a rather "boring" impression - at least for me -, 
 I'm trying to capture the atmosphere of a possible user and make a "boring" form somehow interesting. 
-Therefore I picked a background image by  and found a matching favicon.
+Therefore I picked a background image by [Kevin Erdvig](https://unsplash.com/photos/camping-under-black-sky-k7fUP9RQj3Y) and found a matching favicon.
 Then added some css "glamping" style with glowing effects to headline and labels, and rounded some borders for a smooth and welcoming appearence. 
 I chose to handle user submission with [toastify-js](https://www.npmjs.com/package/toastify-js), so that there's only a brief notification for the user after hitting the button. 
 

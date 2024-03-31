@@ -19,6 +19,7 @@
 
 body {
   margin: 0;
+  padding: 0;
   display: flex;
   place-items: center;
   height: 100vh;
@@ -34,24 +35,24 @@ h1 {
   text-align: center;
   font-family: "Share Tech Mono", monospace;
   color: #fff;
-  text-shadow: 0 0 5px #7e4747, 0 0 10px #7a4444, 0 0 15px #742020, 0 0 20px #49ff18, 0 0 35px #49ff18, 0 0 40px #49ff18, 0 0 50px #49ff18, 0 0 75px #49ff18;
+  text-shadow: 0 0 5px #9cbd66, 0 0 10px #7a4444, 0 0 15px #742020, 0 0 20px #050f3a, 0 0 35px #050f3a, 0 0 40px #050f3a, 0 0 50px #050f3a, 0 0 75px #050f3a;
 }
 
 #app {
   max-width: 1440px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
   width: 100%;
   height: 100vh;
 }
 
 #camp-activities-inquiry {
-  background-image: url('./public/img/');
+  background-image: url('./public/img/kevin-erdvig-k7fUP9RQj3Y-unsplash.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   height: 100vh;
+  border-radius: 40px;
 }
 
 label[for=acitivity-select],
